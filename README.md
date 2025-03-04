@@ -7,10 +7,6 @@ This project draws an **Ironman-inspired** figure using Python's `turtle` module
 The script creates an **advanced Ironman face & body** using geometric shapes and colors.
 
 
-# 🦾 Ironman Drawing with Python (Turtle Graphics)
-
-This project draws an **Ironman-inspired** figure using Python's `turtle` module.
-
 ---
 
 ## 🎬 Demo
